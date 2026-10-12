@@ -1,0 +1,4 @@
+﻿Fixed issue with powershell not recognizing conda.
+Created conda environment(mlguard)
+installed dependencies in environment: pandas scikit-learn scipy fastapi "uvicorn[standard]" pydantic pytest httpx joblib
+created file structure
